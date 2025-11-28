@@ -17,4 +17,4 @@ Entrez un thème de Noël (ex: “Pôle Nord”, “Bonhomme de neige”)
 👉 [Clique ici pour tester ChristmasGo-AI](https://huggingface.co/spaces/Daou/ChristmasGo-AI)
 
 ## 📄 Licence
-Projet open-source sous licence Mit
+Projet open-source sous licence MIT

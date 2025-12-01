@@ -18,3 +18,6 @@ Entrez un thème de Noël (ex: “Pôle Nord”, “Bonhomme de neige”)
 
 ## 📄 Licence
 Projet open-source sous licence MIT
+Festive bot developer.  
+> ✨ Christmas, AI, and creativity in service of a magical world.  
+> 🎁 Hugging Face + GitHub = enchanted solution.
